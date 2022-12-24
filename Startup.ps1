@@ -10,6 +10,7 @@ function Run($FilePath,$ArgList,$WinTitle){
     }
 }
 
+Run "C:\Program Files\AutoHotkey\Scripts\ScreenLock.ahk" "" "*"
 Run "C:\Program Files\obs-studio\bin\64bit\obs64.exe" "--startreplaybuffer --minimize-to-tray" "*"
 Run "C:\Program Files (x86)\Notepad++\notepad++.exe" "" "* - Notepad++"
 Run "C:\Users\PRO\AppData\Local\Programs\Microsoft VS Code\Code.exe" "-n `"C:\Program` Files\AutoHotkey`"" "* - AutoHotkey - Visual Studio Code"
