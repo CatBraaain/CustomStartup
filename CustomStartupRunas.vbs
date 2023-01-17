@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "powershell C:\Users\PRO\Documents\カスタマイズ\カスタムスタートアップ\CustomStartupRunas.ps1", 0
